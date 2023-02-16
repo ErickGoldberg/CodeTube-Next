@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Code Tube
+## Code Tube
 
 Podemos fazer algumas interações no site, como filtrar os vídeos no campo de busca, mudar o tema do site clicando no botão acima que vai de dark-mode ou light-mode, e também é possível adicionar vídeos da sua escolha no botão embaixo.
 
