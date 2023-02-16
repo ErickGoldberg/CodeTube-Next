@@ -1,0 +1,126 @@
+{
+  "name": "Erick Goldberg",
+  "description": "Desenvolvedor Front-end",
+  "github": "ErickGoldberg",
+  "favorites": [
+    {
+
+    }
+  ],
+  "playlists": {
+    "Programação": [
+        {
+          "title": "5 passos para sair do zero e se tornar um programador",
+          "url": "https://www.youtube.com/watch?v=IJtHIlCIues&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=1",
+          "thumb": "https://i.ytimg.com/vi/IJtHIlCIues/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZWUrw60Bc5vG-g9011BS5uJ4etQ"
+        },
+        {
+          "title": "Como Virar Programador",
+          "url": "https://www.youtube.com/watch?v=R6NCG9gqcX0&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=2",
+          "thumb": "https://i.ytimg.com/vi/R6NCG9gqcX0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrLDmDQip_BwS12FINOoBwUVAI0g"
+        },
+        {
+          "title": "10 dicas para se tornar um programador",
+          "url": "https://www.youtube.com/watch?v=sTkYv_6F-b0&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=3",
+          "thumb": "https://i.ytimg.com/vi/sTkYv_6F-b0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBC1abpXEaxATTe77Hz6OGJQo_FJQ"
+        },
+        {
+          "title": "4 Passos para ser um Programador Junior",
+          "url": "https://www.youtube.com/watch?v=3mchtyZgD40&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=4",
+          "thumb": "https://i.ytimg.com/vi/3mchtyZgD40/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCM_Xq76UvahlxZXygAq5qkhat7yg"
+        },
+        {
+          "title": "SUPER SALÁRIOS: Qual área da programação paga mais? 💰",
+          "url": "https://www.youtube.com/watch?v=Ma8_CZ6uge4&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=5",
+          "thumb": "https://i.ytimg.com/vi/Ma8_CZ6uge4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDqRJdh0_1t2adrNApO6M1CLLzKeg"
+        },
+        {
+          "title": "Por que as pessoas estão DESISTINDO da programação?!",
+          "url": "https://www.youtube.com/watch?v=mZXbcgnALMI&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=6",
+          "thumb": "https://i.ytimg.com/vi/mZXbcgnALMI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDo4wgLaX34Kt3dCWbuQ9D8e0pNxw"
+        },
+        {
+          "title": "Qual carreira seguir em programação? (Guia completo sobre áreas de TI)",
+          "url": "https://www.youtube.com/watch?v=i-f5RDe5e3Q&list=PLQUCdcMqiRyH28Db3lCLvCzqdTHCZZFOJ&index=7",
+          "thumb": "https://i.ytimg.com/vi/i-f5RDe5e3Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIdDh1g9Yg3Dt3nmUVi1mNhfS5fA"
+        }
+      ],
+    "front-end": [
+      {
+        "title": "Tudo sobre Front-End: 💰 salários, o que estudar e dicas para carreira.",
+        "url": "https://www.youtube.com/watch?v=8xo1FID4TqU&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=1",
+        "thumb": "https://i.ytimg.com/vi/8xo1FID4TqU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBew9cHjWuqeuXrrVe9L3kWN4xm4A"
+      },
+      {
+        "title": "How To Become a Junior Front End Developer | No Experience",
+        "url": "https://www.youtube.com/watch?v=l7XxVX2cXfg&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=2",
+        "thumb": "https://i.ytimg.com/vi/l7XxVX2cXfg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-AZWamj_svqOU1j8i-NEs5aWHkQ"
+      },
+      {
+        "title": "5 PROJETOS FRONTEND desafiadores para o seu PORTFÓLIO! Topa o desafio?",
+        "url": "https://www.youtube.com/watch?v=8iaW8mMJoJU&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=3",
+        "thumb": "https://i.ytimg.com/vi/8iaW8mMJoJU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhFh-aTQHrT706W7z1MCsOFY120w"
+      },
+      {
+        "title": "Como se tornar um desenvolvedor FRONTEND? (Passo a passo / Roadmap)",
+        "url": "https://www.youtube.com/watch?v=LqXqBgIUbJg&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=4",
+        "thumb": "https://i.ytimg.com/vi/LqXqBgIUbJg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCQGeAQlLrY1U6Koav85fc1Pq_dw"
+      },
+      {
+        "title": "What does a Frontend Developer Actually Do?",
+        "url": "https://www.youtube.com/watch?v=UlG62IXqa5k&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=5",
+        "thumb": "https://i.ytimg.com/vi/UlG62IXqa5k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT-J9sRj_WJf4P3UE3CdiBJNu2Vg"
+      },
+      {
+        "title": "Como Foi Programado um App Que Faz Mágica",
+        "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+        "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+      },
+      {
+        "title": "PROGRAMADOR FRONT-END: Tudo para você começar! | PRIMOTECH EP 5",
+        "url": "https://www.youtube.com/watch?v=wmM1Y0FTiz8&list=PLQUCdcMqiRyF2aIxf1-vLC5VZ21DVqGED&index=6",
+        "thumb": "https://i.ytimg.com/vi/wmM1Y0FTiz8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD5wmK41xMhJg7UG-GtvFhdrwGyHQ"
+      }
+    ],
+    "back-end": [
+      {
+        "title": "Como se tornar um desenvolvedor BACKEND? (Passo a passo / Roadmap)",
+        "url": "https://www.youtube.com/watch?v=wXMlMsDvk2M&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=1",
+        "thumb": "https://i.ytimg.com/vi/wXMlMsDvk2M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBIaeMKW_58MGhK5NVwsifqCqwk3Q"
+      },
+      {
+        "title": "Guia definitivo de back-end: Guia de estudos e (ALTOS) salários 💰",
+        "url": "https://www.youtube.com/watch?v=TeY7jRDlrgQ&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=2",
+        "thumb": "https://i.ytimg.com/vi/TeY7jRDlrgQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDwM66aXFJIcBECz9XD4xdUcjxA_Q"
+      },
+      
+      {
+        "title": "Como Montar Um Portfólio Back-end?",
+        "url": "https://www.youtube.com/watch?v=sTUbOGf9V1U&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=6",
+        "thumb": "https://i.ytimg.com/vi/sTUbOGf9V1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5YWeZDPcUgP8rIolWiAJgsThI5A"
+      },
+      {
+        "title": "O que estudar para ser desenvolvedor backend",
+        "url": "https://www.youtube.com/watch?v=3Wo4L2dPS58&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=3",
+        "thumb": "https://i.ytimg.com/vi/3Wo4L2dPS58/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxbi78oTsf_cQtGBvDKDJch8o84g"
+      },
+      {
+        "title": "5 Projetos BACKEND para INICIANTES ( Guia programador - APRENDA a programar)",
+        "url": "https://www.youtube.com/watch?v=6d84jehVhog&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=4",
+        "thumb": "https://i.ytimg.com/vi/6d84jehVhog/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbGGGRNFDGpH56p6Pl2X9g-sEwVQ"
+      },
+      {
+        "title": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+        "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=5",
+        "thumb": "https://i.ytimg.com/vi/TJ90DZjYdWI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC0V7tGY-qa0fXT_qcbCWKWVdPAKg"
+      },
+      {
+        "title": "7 Projetos Rápidos para Desenvolver em Apenas 1 SEMANA!",
+        "url": "https://www.youtube.com/watch?v=53qwuoclGzg&list=PLQUCdcMqiRyEfe8Y33Ecxa8--toZVkLZ5&index=7",
+        "thumb": "https://i.ytimg.com/vi/53qwuoclGzg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKbRu89HjMM0Ej0lkqG4aNSvHiDA"
+      }
+    ]
+  }
+ 
+}
+  
